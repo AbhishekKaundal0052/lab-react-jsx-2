@@ -8,11 +8,7 @@ export default class AppClass extends Component{
 
   // code here
   render(){
-<<<<<<< HEAD
     const imgData = this.props.Data;
-=======
-    const imgData = this.imageData();
->>>>>>> 70e56a365ca2279af8bedd0b804724813dff73d9
   return(
     <div>
       <h1>Kalvium Gallery</h1>
@@ -30,8 +26,4 @@ export default class AppClass extends Component{
     </div>
   )
   }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 70e56a365ca2279af8bedd0b804724813dff73d9
